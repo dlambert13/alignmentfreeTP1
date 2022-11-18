@@ -2,7 +2,6 @@ from loading import load_directory
 from kmers import stream_kmers, kmer2str
 
 
-
 def similarity(A, inter, B):
     # --- To complete ---
     pass
